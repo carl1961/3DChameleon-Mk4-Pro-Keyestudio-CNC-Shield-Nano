@@ -29,3 +29,14 @@ https://www.3dchameleon.com/
 https://www.youtube.com/@3d_chameleon
 
 Easy 3D Printable 4Y splitter    https://www.printables.com/model/808136-4-in-1-ptfe-adapter
+
+Cutter Servo Board pluged into Z drive location
+
+![WIN_20250828_14_45_58_Pro](https://github.com/user-attachments/assets/71a0a95f-f97f-430c-86be-b0613b799a59)
+
+#Things to know
+
+## Jumpers and pins
+
+<img width="1323" height="840" alt="KS0152_shield" src="https://github.com/user-attachments/assets/a3f78cea-25e2-4fb8-8bb9-cd44b8ca89c4" />
+
