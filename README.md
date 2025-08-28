@@ -30,7 +30,9 @@ https://www.youtube.com/@3d_chameleon
 
 Easy 3D Printable 4Y splitter    https://www.printables.com/model/808136-4-in-1-ptfe-adapter
 
-Cutter Servo Board plugged into Z drive location 12V source,  stepdown to 6 Volts for servo using DD4OAJSA (adjustable ) !! Do voltage adjustment before plugging servo in.!!
+Cutter Servo Board plugged into Z drive location 12V source,  stepdown to 6 Volts for servo using DD4OAJSA (adjustable ) 
+
+!! Do voltage adjustment before plugging servo in.!!
 
 ![WIN_20250828_14_45_58_Pro](https://github.com/user-attachments/assets/71a0a95f-f97f-430c-86be-b0613b799a59)
 
