@@ -32,7 +32,7 @@ Easy 3D Printable 4Y splitter    https://www.printables.com/model/808136-4-in-1-
 
 Cutter Servo Board plugged into Z drive location 12V source,  stepdown to 6 Volts for servo using DD4OAJSA (adjustable ) 
 
-!! Do voltage adjustment before plugging servo in.!!
+!! Do voltage adjustment before plugging servo in.!!  https://alexnld.com/product/3pcs-dd40ajsa-5-40v-to-24v-12v-5v-wide-voltage-adjustable-step-down-dc-voltage-converter-power-regulator-module/
 
 ![WIN_20250828_14_45_58_Pro](https://github.com/user-attachments/assets/71a0a95f-f97f-430c-86be-b0613b799a59)
 
