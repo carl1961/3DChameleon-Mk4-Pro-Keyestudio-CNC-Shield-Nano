@@ -9,8 +9,8 @@ Controller using Keyestudio Nano CNC Shield V4 (Ks0152)  https://wiki.keyestudio
 
 <img width="1520" height="838" alt="3DChameleon_Mk4_Pro_Keyestudio_CNC_Shield_Nano-2" src="https://github.com/user-attachments/assets/82795fdb-8d70-4685-a96d-91161c63aa1b" />
 
-## endstop micro switch
-
+## endstop micro switch 
+Used for button on controller, in photo connected to Cool EN , later it will be moved to like Z+ and external enstop switch on  Z- those both share same D11 pin.
 ![WIN_20250828_07_53_02_Pro](https://github.com/user-attachments/assets/f46b8b94-1fb1-4f26-a479-2d9fa4041f9e)
 
 ![WIN_20250828_07_51_41_Pro](https://github.com/user-attachments/assets/147da3c8-2bca-40e5-84fd-836c8cea4093)
