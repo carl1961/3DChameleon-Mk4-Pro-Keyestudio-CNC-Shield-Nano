@@ -1,7 +1,7 @@
 # 3DChameleon-Mk4-Pro-Keyestudio-CNC-Shield-Nano
-3DChameleon Mk4 Pro  using Keyestudio Nano CNC Shield 
+3DChameleon Mk4 Pro   
 
-Controller using Keys V4 Nano CNC shield
+Controller using Keyestudio Nano CNC Shield V4 (Ks0152)  https://wiki.keyestudio.com/Ks0152_keyestudio_CNC_Shield_V4
 
 ![WIN_20250828_07_41_26_Pro](https://github.com/user-attachments/assets/d5621e20-1e5d-4a01-a788-ed3ba54b2ff8)
 
@@ -9,7 +9,11 @@ Controller using Keys V4 Nano CNC shield
 
 <img width="1520" height="838" alt="3DChameleon_Mk4_Pro_Keyestudio_CNC_Shield_Nano-2" src="https://github.com/user-attachments/assets/82795fdb-8d70-4685-a96d-91161c63aa1b" />
 
+## endstop micro switch
 
+![WIN_20250828_07_53_02_Pro](https://github.com/user-attachments/assets/f46b8b94-1fb1-4f26-a479-2d9fa4041f9e)
+
+![WIN_20250828_07_51_41_Pro](https://github.com/user-attachments/assets/147da3c8-2bca-40e5-84fd-836c8cea4093)
 
 
 https://www.3dchameleon.com/old-forum/support/help-on-setup-for-cnc-shield-v4-ankermake-m5c
