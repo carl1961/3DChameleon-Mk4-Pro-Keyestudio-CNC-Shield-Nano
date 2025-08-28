@@ -11,7 +11,7 @@ Controller using Keyestudio Nano CNC Shield V4 (Ks0152)  https://wiki.keyestudio
 
 ## endstop micro switch 
 
-Used for button on controller, in photo connected to Cool EN , later it will be moved to like Z+ and external enstop switch on  Z- those both share same D11 pin.
+Used for button on controller, in photo connected to Cool EN , later it will be moved to like X+ and external enstop switch on  X- those both share same D9 pin.
 
 ![WIN_20250828_07_53_02_Pro](https://github.com/user-attachments/assets/f46b8b94-1fb1-4f26-a479-2d9fa4041f9e)
 
