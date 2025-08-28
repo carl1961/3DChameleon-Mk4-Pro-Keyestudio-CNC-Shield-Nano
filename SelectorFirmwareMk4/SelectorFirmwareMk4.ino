@@ -142,7 +142,7 @@ SX1509 io;                        // Create an SX1509 object to be used througho
 #define selStep 3
 #define selDir 6
 
-#define trigger A3
+#define trigger 9 //End Stop Switch (Black/White, do not connect red wire)  X+  Button X-
 #define s_limit A4
 #define filament A5
 
