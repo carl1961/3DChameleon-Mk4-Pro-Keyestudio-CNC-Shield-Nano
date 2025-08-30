@@ -40,6 +40,29 @@ Cutter Servo Board plugged into Z drive location 12V source,  stepdown to 6 Volt
 
 [Cotestant custom work !!](https://github.com/cotestatnt/3DChameleonMk4)
 
+cotestatnt
+
+I successfully built and installed a slightly modified version of the 3D Chameleon color changer on a Bambulab A1, and it works really well.
+I can complete a color change in less than 20 seconds because the filament path on the A1 is very short. There is still room to improve this further, for example, by increasing the stepper motor speed.
+
+The only aspect that didn’t fully convince me is the small teeth system for securing the PTFE tubes. So, I adapted your design to accommodate these fittings that I had available, cut in half:
+
+<img width="424" height="247" alt="image" src="https://github.com/user-attachments/assets/341ad901-7bfa-444d-9f3e-1b7733f9a439" />
+
+
+I believe there is also enough space to screw in a standard PC4-M6 fitting without any major issues.
+
+For the electronics, I repurposed some components I had on hand, using a CNC shield for an Arduino Nano and a couple of Hall sensors instead of microswitches. I also added a sensor for homing the selector without bringing the motor to a mechanical stop, as I found it to be somewhat inaccurate—the motor tends to "bounce" when it starts skipping steps. While this isn’t a major issue, since I had the sensor available, I preferred this approach.
+As for the firmware, since speed is more important to me than flexibility or the max number of possible colors, I simplified the color selection process, as I usually only need 2–3 colors for my designs.
+
+
+
+
+
+
+
+
+
 ## Jumpers and pins
 
 <img width="1323" height="840" alt="KS0152_shield" src="https://github.com/user-attachments/assets/a3f78cea-25e2-4fb8-8bb9-cd44b8ca89c4" />
