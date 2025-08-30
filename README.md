@@ -38,6 +38,8 @@ Cutter Servo Board plugged into Z drive location 12V source,  stepdown to 6 Volt
 
 #Things to know
 
+[Cotestant custom work !!](https://github.com/cotestatnt/3DChameleonMk4)
+
 ## Jumpers and pins
 
 <img width="1323" height="840" alt="KS0152_shield" src="https://github.com/user-attachments/assets/a3f78cea-25e2-4fb8-8bb9-cd44b8ca89c4" />
