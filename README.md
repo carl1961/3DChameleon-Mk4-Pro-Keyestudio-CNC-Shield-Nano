@@ -48,7 +48,7 @@ I can complete a color change in less than 20 seconds because the filament path 
 The only aspect that didn’t fully convince me is the small teeth system for securing the PTFE tubes. So, I adapted your design to accommodate these fittings that I had available, cut in half:
 
 <img width="424" height="247" alt="image" src="https://github.com/user-attachments/assets/341ad901-7bfa-444d-9f3e-1b7733f9a439" />
-
+Connect Straight Union Tube Fitting, 4mm OD x 4mm OD, Straight Pneumatic Connector
 
 I believe there is also enough space to screw in a standard PC4-M6 fitting without any major issues.
 
