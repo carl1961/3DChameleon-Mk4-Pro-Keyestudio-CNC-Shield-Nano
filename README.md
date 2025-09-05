@@ -68,3 +68,28 @@ As for the firmware, since speed is more important to me than flexibility or the
 
 <img width="1323" height="840" alt="KS0152_shield" src="https://github.com/user-attachments/assets/a3f78cea-25e2-4fb8-8bb9-cd44b8ca89c4" />
 
+
+## New Code by cotestatnt  https://github.com/cotestatnt/3DChameleonMk4
+
+toolchange (Code in slicer pressing Hall sensor) or External button 
+
+ selectionTime >= 500 && selectionTime < 1000)   Select extruder A
+
+ selectionTime >= 1000 && selectionTime < 1500)  Select extruder B
+
+ selectionTime >= 1500 && selectionTime < 2000)  Select extruder C
+ 
+ selectionTime >= 2000 && selectionTime < 2500)  Select extruder D 
+
+ selectionTime >= 3200)                          home sequence
+
+ ![picture1](https://github.com/user-attachments/assets/927de2e0-3fee-4ba4-b14e-ccf5b3bd0802)
+
+## Selecter (Hall Sensor) 
+
+![tool_selector2](https://github.com/user-attachments/assets/e037b85f-b907-42e8-a1d2-09879520826c)
+
+## KY-003 Hall Sensor
+
+<img width="399" height="507" alt="image" src="https://github.com/user-attachments/assets/b6d2d3db-858b-4586-807f-becb9c609f72" />
+
