@@ -71,6 +71,7 @@ As for the firmware, since speed is more important to me than flexibility or the
 
 ## New Code by cotestatnt  https://github.com/cotestatnt/3DChameleonMk4
 
+toolchange (Code in slicer pressing Hall sensor) or External button 
 
  selectionTime >= 500 && selectionTime < 1000)   Select extruder A
 
@@ -84,5 +85,8 @@ As for the firmware, since speed is more important to me than flexibility or the
 
  ![picture1](https://github.com/user-attachments/assets/927de2e0-3fee-4ba4-b14e-ccf5b3bd0802)
 
- 
+## Selecter (Hall Sensor) 
+
+![tool_selector2](https://github.com/user-attachments/assets/e037b85f-b907-42e8-a1d2-09879520826c)
+
 
