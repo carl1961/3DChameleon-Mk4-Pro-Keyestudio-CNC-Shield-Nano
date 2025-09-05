@@ -89,4 +89,7 @@ toolchange (Code in slicer pressing Hall sensor) or External button
 
 ![tool_selector2](https://github.com/user-attachments/assets/e037b85f-b907-42e8-a1d2-09879520826c)
 
+## KY-003 Hall Sensor
+
+<img width="399" height="507" alt="image" src="https://github.com/user-attachments/assets/b6d2d3db-858b-4586-807f-becb9c609f72" />
 
