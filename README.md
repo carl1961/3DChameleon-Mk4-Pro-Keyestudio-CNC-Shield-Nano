@@ -66,7 +66,8 @@ As for the firmware, since speed is more important to me than flexibility or the
 
 ## Jumpers and pins
 
-<img width="1323" height="840" alt="KS0152_shield" src="https://github.com/user-attachments/assets/a3f78cea-25e2-4fb8-8bb9-cd44b8ca89c4" />
+![KS0152_shield](https://github.com/user-attachments/assets/601a5bb1-72ba-4c8d-ad37-09490a614ddf)
+
 
 
 ## New Code by cotestatnt  https://github.com/cotestatnt/3DChameleonMk4
