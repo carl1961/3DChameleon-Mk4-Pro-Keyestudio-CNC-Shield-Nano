@@ -3,6 +3,9 @@
 
 Controller using Keyestudio Nano CNC Shield V4 (Ks0152)  https://wiki.keyestudio.com/Ks0152_keyestudio_CNC_Shield_V4
 
+![WIN_20250906_18_50_13_Pro](https://github.com/user-attachments/assets/33c07375-abb8-4929-9b86-f83ca718fa37)
+
+
 ![WIN_20250828_07_41_26_Pro](https://github.com/user-attachments/assets/d5621e20-1e5d-4a01-a788-ed3ba54b2ff8)
 
 <img width="1520" height="838" alt="3DChameleon_Mk4_Pro_Keyestudio_CNC_Shield_Nano v17" src="https://github.com/user-attachments/assets/fe26286d-725e-4c72-9f1c-521a9e77edd3" />
